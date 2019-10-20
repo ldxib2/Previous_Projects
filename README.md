@@ -5,7 +5,7 @@ This repository provides students with the assignments for the class *Introducti
 
 ## Schedule
 
-[last updated on: 20/10/2020]
+[last updated on: 20/10/2019]
 
 | Assignment | Description | Due | Status |
 | --- | --- | --- | --- |
