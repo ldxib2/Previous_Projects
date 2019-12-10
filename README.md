@@ -5,10 +5,18 @@ This repository provides students with the assignments for the class *Introducti
 
 ## Schedule
 
-[last updated on: 06/11/2019]
+[last updated on: 02/12/2019]
 
 | Assignment | Description | Due | Status |
 | --- | --- | --- | --- |
 | 01 | GitHub Classroom | 05/11/2019 | Closed |
+<<<<<<< HEAD
 | 02 | First Coding in Python | 12/11/2019 | Opened |
+>>>>>>> assignments/master
+=======
+| 02 | First Coding in Python | 12/11/2019 | Closed |
+| 03 | Testing Code | 19/11/2019 | Closed |
+| 04 | Web Server | 26/11/2019 | Closed |
+| 05 | Access the Web | 03/12/2019 | Open |
+| 06 | Text processing | 10/12/2019 | Open |
 >>>>>>> assignments/master
