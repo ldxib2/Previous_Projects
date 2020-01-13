@@ -5,7 +5,7 @@ This repository provides students with the assignments for the class *Introducti
 
 ## Schedule
 
-[last updated on: 09/01/2020]
+[last updated on: 13/01/2020]
 
 | Assignment | Description | Due | Status |
 | --- | --- | --- | --- |
@@ -17,3 +17,4 @@ This repository provides students with the assignments for the class *Introducti
 | 06 | Text processing | 10/12/2019 | Closed |
 | 07 | Web Crawler | 17/12/2019 | Closed |
 | 08 | Algorithms | 14/01/2020 | Open |
+| 09 | Algorithms II | 21/01/2020 | Open |
